@@ -1,0 +1,19 @@
+{
+  "common": {
+    "languages": "languages",
+    "pageNotFound": "The page cannot be found"
+  },
+  "language": {
+    "english": "english",
+    "spanish": "spanish",
+    "catalonian": "catalonian"
+  },
+  "sidebar": {
+    "title": "bets"
+  },
+  "index": {
+    "title": "Place your bets",
+    "intro": "The eternal discussion of who is better has ended",
+    "summary": "With this application you can create events to generate bets among users and review the previous data"
+  }
+}

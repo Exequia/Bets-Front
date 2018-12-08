@@ -1,0 +1,13 @@
+ [{
+ 		"key": "english",
+ 		"locale": "en"
+ 	},
+ 	{
+ 		"key": "spanish",
+ 		"locale": "es"
+ 	},
+ 	{
+ 		"key": "catalonian",
+ 		"locale": "cat"
+ 	}
+ ]

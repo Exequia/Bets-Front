@@ -1,0 +1,17 @@
+<div class="sidebar-header text-uppercase">
+  <h3>{{ 'sidebar.title' | translate }}</h3>
+</div>
+
+<ul class="list-unstyled components">
+  <li class="active">
+    <a href="#languages" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle text-capitalize">
+      <i class="fas fa-language"></i>
+      {{ 'common.languages' | translate }}
+    </a>
+    <ul class="collapse list-unstyled" id="languages" *ngIf="languages">
+      <li *ngFor="let language of languages" (click)="changeLocaleTo(language.locale)">
+        <a href="#" class="text-capitalize">{{ 'language.' + language.key | translate }}</a>
+      </li>
+    </ul>
+  </li>
+</ul>

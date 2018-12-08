@@ -1,0 +1,19 @@
+{
+  "common": {
+    "languages": "idiomas",
+    "pageNotFound": "No se ha podido encontrar la página"
+  },
+  "language": {
+    "english": "inglés",
+    "spanish": "castellano",
+    "catalonian": "catalán"
+  },
+  "sidebar": {
+    "title": "apuestas"
+  },
+  "index": {
+    "title": "Hagan sus apuestas",
+    "intro": "La eterna discusión de quién es mejor ha finalizado",
+    "summary": "Con esta aplicación podrá crear eventos dónde para generar apuestas entre los usuarios y revisar los datos anteriores"
+  }
+}

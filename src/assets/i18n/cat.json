@@ -1,0 +1,19 @@
+{
+  "common": {
+    "languages": "idiomes",
+    "pageNotFound": "No s'ha pogut trobar la pàgina"
+  },
+  "language": {
+    "english": "anglés",
+    "spanish": "castellà",
+    "catalonian": "català"
+  },
+  "sidebar": {
+    "title": "apostes"
+  },
+  "index": {
+    "title": "Facin les seves apostes",
+    "intro": "L'eterna discussió de qui és millor ha finalitzat",
+    "summary": "Amb aquesta aplicació podrà crear esdeveniments per generar apostes entre els usuaris i revisar les dades anteriors"
+  }
+}
